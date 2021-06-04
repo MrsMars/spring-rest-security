@@ -17,7 +17,7 @@
     <properties>
         <java.version>11</java.version>
 
-        <http.components.version>4.5.10</http.components.version>
+        <http.components.version>4.5.13</http.components.version>
 
         <downloadSources>true</downloadSources>
         <downloadJavadocs>true</downloadJavadocs>
